@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "603318309456",
+    "project_id": "example-ccae8",
+    "storage_bucket": "example-ccae8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603318309456:android:a17e2a936958c97b91b755",
+        "android_client_info": {
+          "package_name": "com.example.smart_file_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF_4ow6yn9VXiSL3Vunw6Gl1vzQYjFdwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
